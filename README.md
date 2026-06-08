@@ -6,7 +6,7 @@
 
 ### Software Engineering Student @ 1337 Coding School (42 Network)
 
-*"I command and machines obey."*
+*"I command...machines obey"*
 
 </div>
 
